@@ -1,2 +1,3 @@
 Criando o arquivo teste.
 editando arquivo teste
+criando teste
